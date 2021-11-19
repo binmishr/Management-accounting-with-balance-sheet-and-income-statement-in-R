@@ -1,0 +1,1 @@
+# Management-accounting-with-balance-sheet-and-income-statement-in-R
